@@ -1,5 +1,4 @@
-ZuliAPP
-ZuliAPP foi baseado no mapeamento colaborativo e compartilhamento de vagas de garagem particulares visando uma alternativa há preços caros de estacionamentos.
+RandomAPP foi baseado no mapeamento colaborativo e compartilhamento de vagas de garagem particulares visando uma alternativa há preços caros de estacionamentos.
 
 Installation
 You need:
